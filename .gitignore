@@ -1,0 +1,30 @@
+# Не коммитить в Git!
+
+# Firebase credentials
+firebase_key.json
+
+# Logs
+logs/
+*.log
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# Configuration with secrets
+appsettings.Development.json
+appsettings.Production.json
